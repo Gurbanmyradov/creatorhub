@@ -1,6 +1,6 @@
 # CreatorHub
 
-**Creator & brand partnership management platform**: a full-stack SaaS-style app for discovering creators, running marketing campaigns, tracking brand–creator partnerships and monitoring performance.
+**Brand partnership management platform**: a full-stack SaaS-style app for discovering creators and monitoring performance.
 
 Built with **Next.js 16 (App Router), React 19, TypeScript, SQLite (better-sqlite3), Zod and Vitest**.
 
